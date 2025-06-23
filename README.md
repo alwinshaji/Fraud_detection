@@ -72,6 +72,6 @@ Explore cost-sensitive learning (to reduce cost of false positives)
 
 👤 Author
 Alwin Shaji
-📍 GitHub | 📸 Instagram | 🔗 LinkedIn
+
 
 
